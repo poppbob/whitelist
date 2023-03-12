@@ -1,2 +1,2 @@
 # whitelist
-ok
+dont try to crac
